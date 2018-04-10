@@ -1,0 +1,11 @@
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.deps.json
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.runtimeconfig.json
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.runtimeconfig.dev.json
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.dll
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.pdb
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csprojResolveAssemblyReference.cache
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.AssemblyInfoInputs.cache
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.AssemblyInfo.cs
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.dll
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\Angular_With_Dotnet\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.pdb
