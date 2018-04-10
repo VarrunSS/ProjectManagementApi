@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ProjectManagementApi.DataAccessLayer;
+using ProjectManagementApi.Models;
 
 namespace ProjectManagementApi.Controllers
 {
@@ -39,6 +41,13 @@ namespace ProjectManagementApi.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }
+
+
+        
+        [HttpPost]
+        public List<Employee> GetEmployeeDetails([FromBody] List<string> IDs){
+            return ProjectManagementDAL.GetEmployeeDetails(IDs);
         }
     }
 }
