@@ -12,42 +12,53 @@ namespace ProjectManagementApi.Controllers
     public class ValuesController : Controller
     {
         // GET api/values
+        // [HttpGet]
+        // public IEnumerable<string> Get()
+        // {
+        //     return new string[] { "value1", "value2" };
+        // }
         [HttpGet]
-        public IEnumerable<string> Get()
+        public List<Employee> Get()
         {
-            return new string[] { "value1", "value2" };
+            return ProjectManagementDAL.GetDummyEmployeeDetails();
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+        // // GET api/values/5
+        // [HttpGet("{id}")]
+        // public string Get(int id)
+        // {
+        //     return "value";
+        // }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
+        // // POST api/values
+        // [HttpPost]
+        // public void Post([FromBody]string value)
+        // {
+        // }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
+        // // PUT api/values/5
+        // [HttpPut("{id}")]
+        // public void Put(int id, [FromBody]string value)
+        // {
+        // }
 
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        // // DELETE api/values/5
+        // [HttpDelete("{id}")]
+        // public void Delete(int id)
+        // {
+        // }
 
 
-        
-        [HttpPost]
-        public List<Employee> GetEmployeeDetails([FromBody] List<string> IDs){
-            return ProjectManagementDAL.GetEmployeeDetails(IDs);
-        }
+        // [HttpGet]
+        // public List<Employee> GetEmployeeDetails()
+        // {
+        //     return ProjectManagementDAL.GetDummyEmployeeDetails();
+        // }
+
+        // [HttpPost]
+        // public List<Employee> GetEmployeeDetails([FromBody] List<string> IDs)
+        // {
+        //     return ProjectManagementDAL.GetEmployeeDetails(IDs);
+        // }
     }
 }
