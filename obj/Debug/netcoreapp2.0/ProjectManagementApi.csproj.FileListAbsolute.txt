@@ -19,3 +19,4 @@ C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\bin\Debug\ne
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.pdb
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.dll
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.pdb
+C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csprojResolveAssemblyReference.cache
