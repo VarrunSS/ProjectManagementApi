@@ -1,9 +1,6 @@
-namespace ProjectManagementApi.Models
-{
-    public class Employee
-    {
-        public Employee()
-        {
+namespace ProjectManagementApi.Models {
+    public class Employee {
+        public Employee () {
             this.ID = "";
             this.Name = "";
             this.Designation = "";
@@ -13,5 +10,6 @@ namespace ProjectManagementApi.Models
         public string Name { get; set; }
         public string Designation { get; set; }
         public string Experience { get; set; }
+
     }
 }

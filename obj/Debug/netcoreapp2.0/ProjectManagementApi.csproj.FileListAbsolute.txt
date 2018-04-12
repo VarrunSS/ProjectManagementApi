@@ -20,3 +20,14 @@ C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\bin\Debug\ne
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.dll
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.pdb
 C:\Users\inselv00\Desktop\BITS PROJECT\ANGULAR\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csprojResolveAssemblyReference.cache
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.deps.json
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.runtimeconfig.json
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.runtimeconfig.dev.json
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.dll
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\bin\Debug\netcoreapp2.0\ProjectManagementApi.pdb
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csprojResolveAssemblyReference.cache
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.csproj.CoreCompileInputs.cache
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.AssemblyInfoInputs.cache
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.AssemblyInfo.cs
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.dll
+E:\Learning\Bits\4th Sem\CODE\ProjectManagementApi\obj\Debug\netcoreapp2.0\ProjectManagementApi.pdb

@@ -12535,27 +12535,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\inselv00\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\VARUN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inselv00\\Desktop\\BITS PROJECT\\ANGULAR\\ProjectManagementApi\\ProjectManagementApi.csproj",
+      "projectUniqueName": "E:\\Learning\\Bits\\4th Sem\\CODE\\ProjectManagementApi\\ProjectManagementApi.csproj",
       "projectName": "ProjectManagementApi",
-      "projectPath": "C:\\Users\\inselv00\\Desktop\\BITS PROJECT\\ANGULAR\\ProjectManagementApi\\ProjectManagementApi.csproj",
-      "packagesPath": "C:\\Users\\inselv00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inselv00\\Desktop\\BITS PROJECT\\ANGULAR\\ProjectManagementApi\\obj\\",
+      "projectPath": "E:\\Learning\\Bits\\4th Sem\\CODE\\ProjectManagementApi\\ProjectManagementApi.csproj",
+      "packagesPath": "C:\\Users\\VARUN\\.nuget\\packages\\",
+      "outputPath": "E:\\Learning\\Bits\\4th Sem\\CODE\\ProjectManagementApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\inselv00\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\VARUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12578,14 +12575,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.5, )"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.5"
           }
         },
         "imports": [

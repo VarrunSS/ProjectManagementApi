@@ -9,7 +9,7 @@ using ProjectManagementApi.Models;
 namespace ProjectManagementApi.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class EmployeeController : Controller
     {
         // GET api/values
         // [HttpGet]
@@ -22,6 +22,8 @@ namespace ProjectManagementApi.Controllers
         {
             return ProjectManagementDAL.GetDummyEmployeeDetails();
         }
+
+
 
         // // GET api/values/5
         // [HttpGet("{id}")]
