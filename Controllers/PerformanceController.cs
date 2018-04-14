@@ -12,7 +12,8 @@ namespace ProjectManagementApi.Controllers {
 
         [HttpGet]
         public List<Performance> Get () {
-            return ProjectManagementDAL.GetDummyPerformanceDetails ();
+            // return ProjectManagementDAL.GetDummyPerformanceDetails ();
+            return ProjectManagementDAL.GetPerformanceDetails ();
         }
     }
 }

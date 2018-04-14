@@ -11,7 +11,8 @@ namespace ProjectManagementApi.Controllers {
     public class UserTaskController : Controller {
         [HttpGet]
         public List<UserTask> Get () {
-            return ProjectManagementDAL.GetDummyUserTaskDetails ();
+            // return ProjectManagementDAL.GetDummyUserTaskDetails ();
+            return ProjectManagementDAL.GetUserTaskDetails ();
         }
     }
 }

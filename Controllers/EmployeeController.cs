@@ -20,7 +20,8 @@ namespace ProjectManagementApi.Controllers
         [HttpGet]
         public List<Employee> Get()
         {
-            return ProjectManagementDAL.GetDummyEmployeeDetails();
+            // return ProjectManagementDAL.GetDummyEmployeeDetails();
+            return ProjectManagementDAL.GetEmployeeDetails();
         }
 
 
